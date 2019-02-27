@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ScreenLock</string>
+    <string name="tile_name">ScreenLock</string>
+    <string name="marketing_message">
+        Keep your screen off\n
+        while your app is running</string>
+
+    <string name="introduction_title">
+        ScreenLock
+    </string>
+
+    <string name="introduction_body">
+        This app is a screen-saver for your phone.
+        Prevent unnecessary touch inputs and save battery
+        by drawing a screen-saver over the entire screen.
+        This app also uses the proximity sensor to prevent
+        screen-saver from unlocking inside your pocket.
+
+    </string>
+
+    <string name="install_title">
+        Getting Started
+    </string>
+
+    <string name="install_body">
+        After installation, add ScreenLock tile to the quick setting panel.
+        Click the tile to activate a screen-saver
+        and double tap screen to deactivate.
+    </string>
+
+    <string name="permission_title">
+        Permissions
+    </string>
+
+    <string name="permission_body">
+        SYSTEM_ALERT_WINDOW - required to draw screen overlay\n
+        WRITE_SETTINGS - required to change brightness settings
+    </string>
+
+    <string name="github_title">
+        Open Source
+    </string>
+
+    <string name="github_body">
+        https://github.com/Kwangjong/ScreenLock
+    </string>
+</resources>
