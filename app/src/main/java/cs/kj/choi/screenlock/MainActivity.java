@@ -1,4 +1,4 @@
-package com.example.kj.screenlock;
+package cs.kj.choi.screenlock;
 
 import android.content.Intent;
 import android.net.Uri;
