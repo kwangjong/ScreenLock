@@ -11,5 +11,8 @@ Click the tile to activate a screen-saver and double tap screen to deactivate.
 * [SYSTEM_ALERT_WINDOW](https://developer.android.com/reference/android/Manifest.permission#SYSTEM_ALERT_WINDOW) - required to draw screen overlay\n
 * [WRITE_SETTINGS](https://developer.android.com/reference/android/Manifest.permission#WRITE_SETTINGS) - required to change brightness settings
 
+## PlayStore
+https://play.google.com/store/apps/details?id=cs.kj.choi.screentouchoff
+
 ## Authors
 KJ Choi
