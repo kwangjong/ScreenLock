@@ -4,7 +4,7 @@ Prevent unnecessary touch inputs and save battery by drawing a screen-saver over
 This app also uses the proximity sensor to prevent screen-saver from unlocking inside your pocket.
 
 ![screenshot](img/screenshot.png)
-![screenshot-1](img/screenshot1.png)
+![screenshot-1](img/screenshot-1.png)
 
 ## Getting Started
 After installation, add ScreenLock tile to the quick setting panel.
